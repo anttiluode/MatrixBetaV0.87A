@@ -1,4 +1,7 @@
 # 🚀 Quaternion World Builder  
+
+![Matrix](./matrix.png)
+
 ### Relativistic Spacetime Engine for Neural Attention
 
 A PyTorch-based generative system where **attention is governed by the laws of spacetime**.
